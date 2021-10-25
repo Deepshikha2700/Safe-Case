@@ -4,3 +4,5 @@ Features-
 1.User Authentication
 2.Extra security feature of Confirmation Key.
 3.User-Friendly
+Project Name- SafePassword
+App Name- Password
